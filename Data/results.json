@@ -1,0 +1,142 @@
+{
+    "DIPHENHYDRAMINE": {
+        "clinical_trials": [
+            {
+                "id": "NCT01967433",
+                "date_mention": "01/01/2020",
+                "journal": "journal of emergency nursing"
+            },
+            {
+                "id": "NCT04189588",
+                "date_mention": "01/01/2020",
+                "journal": "journal of emergency nursing"
+            },
+            {
+                "id": "NCT04237091",
+                "date_mention": "01/01/2020",
+                "journal": "journal of emergency nursing"
+            }
+        ],
+        "pubmed": [
+            {
+                "id": 1,
+                "date_mention": "01/01/2019",
+                "journal": "journal of emergency nursing"
+            },
+            {
+                "id": 2,
+                "date_mention": "01/01/2019",
+                "journal": "journal of emergency nursing"
+            },
+            {
+                "id": 3,
+                "date_mention": "01/02/2019",
+                "journal": "the journal of pediatrics"
+            }
+        ],
+        "journal": []
+    },
+    "TETRACYCLINE": {
+        "clinical_trials": [],
+        "pubmed": [
+            {
+                "id": 4,
+                "date_mention": "01/01/2020",
+                "journal": "journal of food protection"
+            },
+            {
+                "id": 5,
+                "date_mention": "01/02/2020",
+                "journal": "american journal of veterinary research"
+            },
+            {
+                "id": 6,
+                "date_mention": "01/01/2020",
+                "journal": "psychopharmacology"
+            }
+        ],
+        "journal": []
+    },
+    "ETHANOL": {
+        "clinical_trials": [],
+        "pubmed": [
+            {
+                "id": 6,
+                "date_mention": "01/01/2020",
+                "journal": "psychopharmacology"
+            }
+        ],
+        "journal": []
+    },
+    "ATROPINE": {
+        "clinical_trials": [],
+        "pubmed": [],
+        "journal": [
+            {
+                "id": "",
+                "date_mention": "03/01/2020",
+                "journal": "the journal of maternal-fetal & neonatal medicine"
+            }
+        ]
+    },
+    "EPINEPHRINE": {
+        "clinical_trials": [
+            {
+                "id": "NCT04188184",
+                "date_mention": "27/04/2020",
+                "journal": "journal of emergency nursing"
+            }
+        ],
+        "pubmed": [
+            {
+                "id": 7,
+                "date_mention": "02/01/2020",
+                "journal": "the journal of allergy and clinical immunology. in practice"
+            },
+            {
+                "id": 8,
+                "date_mention": "03/01/2020",
+                "journal": "the journal of allergy and clinical immunology. in practice"
+            }
+        ],
+        "journal": []
+    },
+    "ISOPRENALINE": {
+        "clinical_trials": [],
+        "pubmed": [],
+        "journal": [
+            {
+                "id": 9,
+                "date_mention": "01/01/2020",
+                "journal": "journal of photochemistry and photobiology. b, biology"
+            }
+        ]
+    },
+    "BETAMETHASONE": {
+        "clinical_trials": [
+            {
+                "id": "NCT04153396",
+                "date_mention": "01/01/2020",
+                "journal": "hopitaux universitaires de gen"
+            }
+        ],
+        "pubmed": [],
+        "journal": [
+            {
+                "id": 10,
+                "date_mention": "01/01/2020",
+                "journal": "the journal of maternal-fetal & neonatal medicine"
+            },
+            {
+                "id": "11",
+                "date_mention": "01/01/2020",
+                "journal": "journal of back and musculoskeletal rehabilitation"
+            },
+            {
+                "id": "",
+                "date_mention": "03/01/2020",
+                "journal": "the journal of maternal-fetal & neonatal medicine"
+            }
+        ]
+    }
+}
