@@ -37,7 +37,7 @@ The folder named "Data" is composed of files needed to resolve the test.
 * data cleaning must be done. The sample is very small then I did it very quickly. This exercise reminds the one I have done during my study, you can have a look to my thesis.
 
 # Launch the repository
-When running the file "main.py", it uploads a new json file named "results.json". 
+When running the file "main.py", it uploads a new json file named "Data/results.json". 
 
 This file has this shape :
 * name of the drug 
@@ -47,8 +47,6 @@ This file has this shape :
     * list of id, date of publication, journal's name
   * journal 
     * list of id, date of publication, journal's name
-
-Then we can display graph that discribes relation between drugs and articles :
 
 # Ad-hpoc questions :
 
@@ -74,7 +72,8 @@ It could be interessting to partionnate the BQ tables in order to optimize the r
 If you like to use SQL queries, you could use a DAG tool, for example DBT or Matillion
 If you like to use Python coding, you could use Airflow to build task. These tasks could call cloud services, in order to transform the data, via API calls.
 
-Finally, if the user doesn't want to deal with infrastructure issues and maintenance then he could use a SaaS cloud plateform such as Snwoflake.
+Also, if we use tera bytes of data and cloud services, with python code, it could be interesting to keep this example in order to build unitary tests. Mocking different services and launch the test each time we commit a changement. Besides, we could have a deployement pipeline such as Jenkins, this is usefull when deploying infra via terraform and build a mirorring with the application repository to automatically propagate the code to the cloud services. Therefore, we build two repositories : application (contains python code) and infrastructure (contains IaC coding in terraform)
 
+Finally, if the user doesn't want to deal with infrastructure issues and maintenance then he could use a SaaS cloud plateform such as Snwoflake.
 
 **We can of course give more accurate answers, I will be happy to talk about it during an interview.**
